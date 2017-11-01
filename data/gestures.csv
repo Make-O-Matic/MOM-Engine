@@ -1,0 +1,19 @@
+;_id;isGarbage;isNesture;name;slug
+1;58a23a22d826756404709446;;;Single Rotation klein rechtsrum;rssr
+2;58a23a22d826756404709447;;;Single Rotation klein linksrum;rssl
+3;58a23a22d826756404709448;;;Oszillierende Rotation klein rechtsrum;rosr
+4;58a23a22d826756404709449;;;Oszillierende Rotation klein linksrum;rosl
+5;58a23a22d82675640470944a;;;Single Rotation groß rechtsrum;rsbr
+6;58a23a22d82675640470944b;;;Single Rotation groß linksrum;rsbl
+7;58a23a22d82675640470944c;;;Oszillierende Rotation groß rechtsrum;robr
+8;58a23a22d82675640470944d;;;Oszillierende Rotation groß linksrum;robl
+9;58a23a22d82675640470944e;;;Kontinuierliche Rotation groß rechtsrum;rcbr
+10;58a23a22d82675640470944f;;;Kontinuierliche Rotation groß linksrum;rcbl
+11;58a23a22d826756404709450;;;LinearMovement Single;lms
+12;58a23a22d826756404709451;;;LinearMovement Oszillierend;lmo
+13;58a23a22d826756404709452;;;Drücken;pb
+14;58a23a22d826756404709453;True;True;Rest;rest
+15;58a23a22d826756404709454;;True;Greifen;grasp
+16;58a23a22d826756404709455;;True;Positionieren;pos
+17;58a23a22d826756404709456;;True;Umgreifen;regr
+18;58a23a22d826756404709457;;True;Ablegen;release
