@@ -1,0 +1,6 @@
+# these are the library versions we used; later versions might be supported but it is not guaranteed
+numpy==1.11.2
+scipy==0.18.1
+pandas==0.18.0
+scikit-learn==0.18.1
+matplotlib==1.5.1
